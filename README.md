@@ -1,5 +1,5 @@
-# Juvinelle-Website-Project
- Juvinelle Website using  HTML, CSS and Media Query
+# NASA Layout Project
+ NASA Layout Project using  HTML, CSS and Media Query
 
 
 ### Getting Started
